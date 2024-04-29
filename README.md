@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my git project!
+BookBot is my project!
